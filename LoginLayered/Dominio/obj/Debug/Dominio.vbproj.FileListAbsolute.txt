@@ -1,0 +1,17 @@
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\Dominio.dll
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\Dominio.pdb
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\Dominio.xml
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\DataAccess.dll
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\DataAccess.xml
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.vbprojAssemblyReference.cache
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.Resources.resources
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.vbproj.GenerateResource.cache
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.vbproj.CopyComplete
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.dll
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.xml
+C:\Users\eduar\source\repos\LoginLayered\Dominio\obj\Debug\Dominio.pdb
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\Common.dll
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\Common.pdb
+C:\Users\eduar\source\repos\LoginLayered\Dominio\bin\Debug\Common.xml

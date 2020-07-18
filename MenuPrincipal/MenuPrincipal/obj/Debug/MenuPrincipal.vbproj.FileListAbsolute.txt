@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.xml
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.vbprojAssemblyReference.cache
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Principal_Main.resources
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Resources.resources
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.vbproj.GenerateResource.cache
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.xml
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Form1.resources
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Form2.resources
+C:\Users\eduar\source\repos\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Form3.resources

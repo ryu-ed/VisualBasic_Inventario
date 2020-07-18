@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\LoginLayered\Common\bin\Debug\Common.dll
+C:\Users\eduar\source\repos\LoginLayered\Common\bin\Debug\Common.pdb
+C:\Users\eduar\source\repos\LoginLayered\Common\bin\Debug\Common.xml
+C:\Users\eduar\source\repos\LoginLayered\Common\obj\Debug\Common.vbprojAssemblyReference.cache
+C:\Users\eduar\source\repos\LoginLayered\Common\obj\Debug\Common.Resources.resources
+C:\Users\eduar\source\repos\LoginLayered\Common\obj\Debug\Common.vbproj.GenerateResource.cache
+C:\Users\eduar\source\repos\LoginLayered\Common\obj\Debug\Common.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\LoginLayered\Common\obj\Debug\Common.dll
+C:\Users\eduar\source\repos\LoginLayered\Common\obj\Debug\Common.xml
+C:\Users\eduar\source\repos\LoginLayered\Common\obj\Debug\Common.pdb

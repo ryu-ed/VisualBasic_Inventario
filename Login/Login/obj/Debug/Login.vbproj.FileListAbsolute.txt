@@ -1,0 +1,12 @@
+C:\Users\eduar\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\eduar\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\eduar\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\eduar\source\repos\Login\Login\bin\Debug\Login.xml
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.vbprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.FormLogin.resources
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.vbproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.xml
+C:\Users\eduar\source\repos\Login\Login\obj\Debug\Login.pdb
